@@ -1,6 +1,6 @@
 #pragma once
 
-<<<<<<< HEAD
-/// dev/a 에서 수정 중
+
+/// dev/b 에서 수정 중 입니다.
 
 int mod(int, int);
